@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gideon-Adele
-- 👀 I’m interested in deep learning and machine learning and its applications in the area of healthcare informatics
-- 🌱 I’m currently researching in the area of genomics
+- 👀 I’m currently researching in the area of Vehicular Ad hoc Networks (VANETs)
+- 🌱 I’m interested in how unsupervised learning can counter security attacks in Vehicualr Ad hoc Networks.
 - 💞️ I’m looking to collaborate on any research or projects that is related to these areas.
 - 📫 You can reach via email adelegideon@gmail.com
 
